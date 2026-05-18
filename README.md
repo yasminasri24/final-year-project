@@ -108,7 +108,7 @@ This project was developed as my Final Year Project (FYP) during my Bachelor's D
 
 1. Clone the repository
    '''bash
-   git clone <your-repository-link>
+   git clone your-repository-link
 2. Import the project into Apache NetBeans
 3. Import the database file: database/cams1.sql
 4. Configure the database connection and API credentials inside: WEB-INF/config.example.properties
