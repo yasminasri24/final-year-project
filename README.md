@@ -87,6 +87,12 @@ This project was developed as my Final Year Project (FYP) during my Bachelor's D
 ### Counselor Dashboard
 ![Counselor Dashboard](screenshots/counselor-dashboard.png)
 
+### Google Calendar
+![Counselor Calendar](screenshots/google-calendar.png)
+
+### Report Dashboard
+![Report Dashboard](screenshots/report.png)
+
 ---
 
 ## Installation Guide
